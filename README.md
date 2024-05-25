@@ -48,3 +48,4 @@ Solved Course Assignments => [ 25 ] <br />
 #### I will Update It Regulary
 #### If You Want To See The HTML and CSS Assignments' Solution, You Can View It From [My Codepen.io Profile](https://codepen.io/Ali_118)
 #### Made By Ali Abdelkader - 2021
+### updated by Amr 2024
